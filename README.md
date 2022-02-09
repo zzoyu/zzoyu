@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zzoyu
-- 👀 I’m interested in Vue.js / Nuxt.js / Node.js / Arduino / Django
-- 🌱 I’m currently learning Vue.js / Nuxt.js
+- 👀 주 관심사는 JS 기반 프레임워크들(FE/BE), UI/UX 디자인, Python, 임베디드 펌웨어입니다. 인터랙티브한 모든 분야에 관심이 있습니다.
+- 🌱 현재 Vue.js / Nuxt.js 위주로 개발하고 있습니다.
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me ... cho.yj@outlook.com
+- 📫 cho.yj@outlook.com
 
 <!---
 zzoyu/zzoyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
