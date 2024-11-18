@@ -4,6 +4,14 @@
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 cho.yj@outlook.com
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/zzoyu"
+  width="600"
+  height="300"
+/>
+</a>
+
 [![An image of @zzoyu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zzoyu)](https://holopin.io/@zzoyu)
 
 <!---
